@@ -2,16 +2,16 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: #B09E99;
+  background-color: #B9CBBA;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  color: #5B4C48;
+  color: grey;
 }
 
 #game-container {
-  background-color: #FEE9E1;
+  background-color: #A1BAA4;
   padding: 30px 40px;
   border-radius: 15px;
   border: solid white 7px;
@@ -23,20 +23,20 @@ body {
 h1 {
   margin-top: 0;
   font-size: 28px;
-  color: #5B4C48;
+  color: #598392;
 }
 
 #prompt-text {
   font-size: 18px;
   font-weight: bold;
-  color: #5B4C48;
+  color: #598392;
   margin-bottom: 5px;
 }
 
 
 #main-word {
   font-size: 26px;
-  color: #F5CAC3;
+  color: #598392;
   margin-bottom: 20px;
 }
 
@@ -50,7 +50,7 @@ h1 {
 
 #options button {
   padding: 10px 18px;
-  background-color: #DCD3D1;
+  background-color: #598392;
   color: #5B4C48;
   border: none;
   border-radius: 8px;
@@ -74,7 +74,7 @@ h1 {
 #next-button {
   padding: 12px 24px;
   background-color: #DCD3D1;
-  color: #5B4C48;
+  color: #598392;
   border: none;
   border-radius: 8px;
   font-size: 16px;
