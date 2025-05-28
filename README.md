@@ -1,4 +1,4 @@
-# Alondra E - Final Portfolio Project
+# Alondra E 
 
 ## About Me
 
