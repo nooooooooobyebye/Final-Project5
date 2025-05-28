@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, my name is Alondra, I try my best to program even though I don’t always understand it. Im a student at Mt.Eden Highschool, and im 17 almost turning 18! I have 7 pets, 3 dogs, 1 cat and 3 birds! I also love to play roblox and paint in my freetime.
+Hello, my name is Alondra, I try my best to program even though I don’t always understand it. Im a student at Mt. Eden Highschool, and im 17 almost turning 18! I have 7 pets, 3 dogs, 1 cat and 3 birds! I also love to play roblox and paint in my freetime.
 
 ## About This Project
 
