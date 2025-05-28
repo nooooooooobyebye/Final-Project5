@@ -38,4 +38,4 @@ My portfolio site includes:
 
 ---
 
-Thank you for visiting my portfolio! I’m excited to keep learning and growing as a developer.
+Thank you for visiting my portfolio page!
